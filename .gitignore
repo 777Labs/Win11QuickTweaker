@@ -3,7 +3,7 @@
 [Oo]bj/
 publish/
 
-# Source Code (ソース非公開: リポジトリへプッシュしない)
+# Source Code (ソース非公開: C#コード・プロジェクト定義)
 *.cs
 *.csproj
 *.manifest
@@ -11,7 +11,6 @@ Forms/
 Models/
 Services/
 Tools/
-Assets/
 アプリ開発仕様書.md
 
 # IDE / Editor Files
