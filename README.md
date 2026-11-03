@@ -23,6 +23,7 @@
 ![Win11 Quick Tweaker Screenshot](Assets/screenshot3.png)
 ![Win11 Quick Tweaker Screenshot](Assets/screenshot4.png)
 ![Win11 Quick Tweaker Screenshot](Assets/screenshot5.png)
+![Win11 Quick Tweaker Screenshot](Assets/screenshot6.png)
 
 ---
 
