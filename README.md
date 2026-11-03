@@ -10,7 +10,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2011%20(64--bit)-0078D4?style=flat-square)](https://github.com/777Labs/win11-quick-tweaker)
 [![License](https://img.shields.io/badge/License-Freeware-blue?style=flat-square)](LICENSE)
 
-[📥 最新版をダウンロード (Releases)]([https://github.com/777Labs/Win11QuickTweaker/releases/latest])
+[📥 最新版をダウンロード (Releases)](https://github.com/777Labs/Win11QuickTweaker/releases/latest)
 
 </div>
 
