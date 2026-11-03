@@ -18,7 +18,11 @@
 
 ## 📸 スクリーンショット
 
-![Win11 Quick Tweaker Screenshot](Assets/screenshot.png)
+![Win11 Quick Tweaker Screenshot](Assets/screenshot1.png)
+![Win11 Quick Tweaker Screenshot](Assets/screenshot2.png)
+![Win11 Quick Tweaker Screenshot](Assets/screenshot3.png)
+![Win11 Quick Tweaker Screenshot](Assets/screenshot4.png)
+![Win11 Quick Tweaker Screenshot](Assets/screenshot5.png)
 
 ---
 
