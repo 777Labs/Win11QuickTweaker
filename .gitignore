@@ -1,0 +1,25 @@
+# Build Outputs
+[Bb]in/
+[Oo]bj/
+publish/
+
+# Source Code (ソース非公開: リポジトリへプッシュしない)
+*.cs
+*.csproj
+*.manifest
+Forms/
+Models/
+Services/
+Tools/
+Assets/
+アプリ開発仕様書.md
+
+# IDE / Editor Files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Temporary Files
+*.tmp
+*.log
