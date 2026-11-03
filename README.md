@@ -8,7 +8,7 @@
 
 [![Release](https://img.shields.io/badge/Release-v1.0.0-238636?style=flat-square)](https://github.com/777Labs/win11-quick-tweaker/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2011%20(64--bit)-0078D4?style=flat-square)](https://github.com/777Labs/win11-quick-tweaker)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Freeware-blue?style=flat-square)](LICENSE)
 
 [📥 最新版をダウンロード (Releases)](https://github.com/777Labs/win11-quick-tweaker/releases/latest)
 
@@ -93,7 +93,7 @@
 
 ## 📄 利用規約・ライセンス
 
-本ソフトウェアは [MIT License](LICENSE) の下で公開されています。個人利用・商用利用を問わず、どなたでも無償でご利用いただけます。
+本ソフトウェアは **無料（フリーウェア）** として提供されています。個人利用・商用利用を問わず、どなたでも無償でご利用いただけます。
 詳細については [LICENSE](LICENSE) をご確認ください。
 
-Copyright (c) 2026 777 Labs
+Copyright (c) 2026 777Labs / Win11QuickTweaker All rights reserved.
