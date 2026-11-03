@@ -55,7 +55,7 @@
 ## 📥 ダウンロードと使い方
 
 ### 1. ダウンロード
-右側の [**Releases**](https://github.com/777Labs/win11-quick-tweaker/releases) ページから最新の `Win11QuickTweaker_v1.0.0.zip`（または `Win11QuickTweaker.exe`）をダウンロードしてください。
+右側の [**Releases**](https://github.com/777Labs/Win11QuickTweaker/releases) ページから最新の `Win11QuickTweaker_v1.0.0.zip`（または `Win11QuickTweaker.exe`）をダウンロードしてください。
 
 ### 2. 起動方法
 1. ダウンロードした ZIP ファイルをお好みのフォルダーに展開（解凍）します。
